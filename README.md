@@ -11,11 +11,5 @@ The objective set out in this project is to predict the selling price of houses 
 
 The project was tackled by initially exploring the data and understanding the behaviuor of the independent variables in relation to the dependent or the target variable (price)
 and being able to make decisions on case basis.
-The project was executed by the combined efforts of a group of four persons.
 
-Team Members;
 
-- Alen Pavlic Ravser
-- Chuk Leng Lim
-- Dennis Nkansah-Tieku
-- Sebastian Guenther
